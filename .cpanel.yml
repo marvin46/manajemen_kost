@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/kostexcl/repositories/marvin46
-    - /bin/cp -R images $DEPLOYPATH
