@@ -1,0 +1,1 @@
+[25-Jan-2022 16:02:24 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/kostexcl/public_html/config/class.php on line 28
